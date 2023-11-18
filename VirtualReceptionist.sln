@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualReceptionist.Application", "VirtualReceptionist.Application\VirtualReceptionist.Application.csproj", "{227362F7-65BF-4560-BBCF-B6CF93C20A11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualReceptionist", "VirtualReceptionist\VirtualReceptionist.csproj", "{C10A5B36-CF72-4174-8FA9-1A2F6F572210}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{227362F7-65BF-4560-BBCF-B6CF93C20A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{227362F7-65BF-4560-BBCF-B6CF93C20A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{227362F7-65BF-4560-BBCF-B6CF93C20A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{227362F7-65BF-4560-BBCF-B6CF93C20A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10A5B36-CF72-4174-8FA9-1A2F6F572210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10A5B36-CF72-4174-8FA9-1A2F6F572210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10A5B36-CF72-4174-8FA9-1A2F6F572210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10A5B36-CF72-4174-8FA9-1A2F6F572210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
